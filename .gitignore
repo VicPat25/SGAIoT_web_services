@@ -1,4 +1,6 @@
 # Datos no publicables GIT
-mongodata
+.ENV
 .env
+.log
+mongodata
 SGAIoT_web_app
